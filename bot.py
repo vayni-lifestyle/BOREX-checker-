@@ -11,7 +11,7 @@ from urllib.parse import urlparse
 # Config
 API_ID = 27839427
 API_HASH = "d30158d31208d18c78cbc5248b9704d2"
-BOT_TOKEN = "8946808836:AAEiABDNny7PrZ77cYfm-rwbhNP9DeAg2mY" # Replace with your Bot Token
+BOT_TOKEN = "8917909750:AAFuebOdwbxtaZ3ut03xmo3mlq6XdtklpoU" # Replace with your Bot Token
 ADMIN_ID = [686523,615070]
 
 # Files
